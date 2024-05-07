@@ -17,4 +17,4 @@ FakeAPI: A custom-made API for demonstration purposes.
 
 
 To Clone this Project 
-git clone (https://github.com/NaveenBelandurHelloMentor/Pagination.git)
+git clone (https://github.com/NaveenBelandurHelloMentor/Pagination.git)   
